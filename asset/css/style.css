@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #083b4c;
+}
+.container_costum{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+.box{
+    background-color: #1389b2;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.green{
+    background-color: greenyellow;
+}
