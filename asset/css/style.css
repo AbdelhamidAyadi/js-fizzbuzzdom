@@ -23,3 +23,12 @@ body{
 .green{
     background-color: greenyellow;
 }
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.black{
+    background-color: rgb(68, 54, 54);
+}
